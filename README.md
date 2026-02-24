@@ -2,6 +2,20 @@
 This project presents an end-to-end deep learning framework for stock price prediction using time-series analysis. 
 The primary goal is to forecast stock closing prices by leveraging advanced neural network architectures capable of modeling sequential financial data.
 
+Project Structure: 
+
+Stock-Prediction-Project/
+│
+├── data/
+├── models/
+├── notebooks/
+├── results/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+└── research_paper.pdf
+
 The study compares three models:
 LSTM
 CNN-LSTM
